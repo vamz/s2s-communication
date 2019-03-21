@@ -39,4 +39,4 @@ captures/
 *.jks
 
 #remove intellij idea settings
-.idea/workspace.xml
+.idea
